@@ -1,7 +1,7 @@
 <h1 style="text-align:center">HEP-COSMO Coding Study</h1>
 <p style="text-align:right">Provided by <b>Tae Geun Kim</b></p>
 
-## 1. Should Prepare Things
+## 1. Create Github Account
 
 1. Install Git
     > * Ubuntu : sudo apt-get install git
@@ -50,3 +50,20 @@
 >   return Sqrt(-x) + "i"
 >}
 >```
+
+* All of this code is written by Markdown.
+* You should learn markdown to use github
+
+## 3. Git
+
+1. Create repository at Github (No initialize)
+2. Make some directory on your computer (e.g SM)
+3. Make any files (e.g Higgs.txt)
+4. Should initialize your folder as follows:
+    > 1. git init
+    > 2. git remote add 별명 https://github.com/아이디/저장소
+    > 3. git config --global user.name blabla
+    > 4. git config --global user.email bla@bla.com
+    > 5. git add Higgs.txt
+    > 6. git commit -am "아무 메시지"
+    > 7. git push 
