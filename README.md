@@ -75,3 +75,17 @@
     >   * git add File_Name
     >   * git commit -am "Log_Message"
     >   * git push Any_Name master 
+
+## 4. (Optional) Python - Jupyter
+
+1. Search "Anaconda" at Google.
+2. Download Python3.6 ver Conda.
+3. Export path? Y
+4. When download finished, type "jupyter notebook"
+    > * Windows : Search Anaconda prompt in your computer and type on that
+    > * Linux : Just type on bash shell
+
+## 5. (Optional) Go, Python - VSCode
+
+1. Download VScode (Visual Studio Code)
+2. Use it with various extensions
