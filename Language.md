@@ -33,7 +33,7 @@
 
 
 4. Some Rankings
-    > <a href="https://www.slant.co/topics/25/~best-programming-language-to-learn-first">- What are the best languages to learn fist</a>  
+    > <a href="https://www.slant.co/topics/25/~best-programming-language-to-learn-first">- What are the best languages to learn first</a>  
     > <a href="https://www.slant.co/topics/4001/~programming-languages-for-data-science">- What are the best languages for Data Science</a>  
     > <a href="https://www.slant.co/topics/5984/~productivity-enhancing-well-designed-and-concise-rather-than-just-popular-or-time-tested-programming-la">- What are the best languages for productivity</a>
 
