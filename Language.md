@@ -55,3 +55,6 @@
     > * Intermediate : Study Go or Rust / Use Julia or Python or C/C++
     > * Else : Do anything
 
+## 4. Conclusion
+
+Personally, I recommend **Julia** to future Physicists. But there are many libraries written by **C++**, so you should study **C++** if you want to become experimental Physicist. If you don't have any programming experiences, then you'd better to study **Python** first. If you hate programming, then **Mathematica** is the best solution.  
