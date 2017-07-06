@@ -39,3 +39,4 @@ circle : x^2 + y^2 = 1
 tangent line : x_1x + y_1y = 1
 ```
 * Using above eqs, given point (x_1, y_1), draw the plot circle & tangent line.
+    * Should Contain : title, axis label, legends
