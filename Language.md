@@ -26,16 +26,16 @@
 2. Speed
     > Fortran > C++ > C > Rust > Go > Julia > Java >>> Python > Matlab > R > Mathematica
     >
-    > -Reference : <a href="http://benchmarksgame.alioth.debian.org/u64q/performance.php?test=nbody&sort=elapsed">Speed Benchmark Game</a>
+    > -Reference : <a href="http://benchmarksgame.alioth.debian.org/u64q/performance.php?test=nbody&sort=elapsed" target="_blank">Speed Benchmark Game</a>
 
 3. Physics Libraries (Particle Physics)
     > C/C++ > Mathematica >> Python >>> Go(Little bit) > And Others
 
 
 4. Some Rankings
-    > <a href="https://www.slant.co/topics/25/~best-programming-language-to-learn-first">- What are the best languages to learn first</a>  
-    > <a href="https://www.slant.co/topics/4001/~programming-languages-for-data-science">- What are the best languages for Data Science</a>  
-    > <a href="https://www.slant.co/topics/5984/~productivity-enhancing-well-designed-and-concise-rather-than-just-popular-or-time-tested-programming-la">- What are the best languages for productivity</a>
+    > <a href="https://www.slant.co/topics/25/~best-programming-language-to-learn-first" target="_blank">- What are the best languages to learn first</a>  
+    > <a href="https://www.slant.co/topics/4001/~programming-languages-for-data-science" target="_blank">- What are the best languages for Data Science</a>  
+    > <a href="https://www.slant.co/topics/5984/~productivity-enhancing-well-designed-and-concise-rather-than-just-popular-or-time-tested-programming-la" target="_blank">- What are the best languages for productivity</a>
 
 ## 3. Question to Determine Programming Languages
 

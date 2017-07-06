@@ -8,7 +8,7 @@
     > * Windows : Just Search "Git windows" or "윈도우 Git"
 
 2. Create Github account
-    > * <a href="https://github.com" target='blank'>https://github.com</a>
+    > * <a href="https://github.com" target='_blank'>https://github.com</a>
 
 3. If you create account, then please email to me (edeftg@gmail.com) - Contain your ID.
 
