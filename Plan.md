@@ -6,8 +6,18 @@
 * Data type, Function, I/O, Modules
 * Scientific (Statistics, Plot, Matrix operation)
 * R/W data
+* Pointer
 * OOPs (Class or Type & Method)
+* Parallel Computing
+* Numerical Computing Algorithm
 * Projects (Special Relativity and etc.)
 
 ## 2. Calendar
-<iframe src="https://calendar.google.com/calendar/embed?src=borlhp1jh36s7pqmeer9mu3nr8%40group.calendar.google.com&ctz=Asia/Seoul" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+<img src="https://www.dailyprintable.com/wp-content/uploads/2017/05/July-2017-Calendar-Printable.jpg" align="center">
+
+1. 7/7 - First Meeting : Introduction & Construct Environment
+2. 7/11 ?
+3.
+4.
+5.
