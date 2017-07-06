@@ -6,4 +6,6 @@
 
 ## 1. Harmonic Oscillator
 
-katex.render("E_n = \hbar\omega(n+\frac{1}{2})");
+```tex
+E_n = \hbar\omega(n+\frac{1}{2})
+```
