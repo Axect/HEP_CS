@@ -3,4 +3,4 @@
 
 ## 1. Harmonic Oscillator
 
-<img src="http://bit.ly/2ttnFxb" align="center" border="0" alt="E_n = \hbar\omega(n+\frac{1}{2})" width="108" height="36" />
+[img]http://bit.ly/2ttnFxb[/img]
