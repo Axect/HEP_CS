@@ -34,6 +34,7 @@
         def __call__(self, x):
             return Differentiate(x)
     ```
+    
     * Go
     ```go
     package main
