@@ -17,7 +17,7 @@
 <img src="https://www.dailyprintable.com/wp-content/uploads/2017/05/July-2017-Calendar-Printable.jpg" align="center">
 
 1. 7/7 - First Meeting : Introduction & Construct Environment
-2. 7/11 ?
+2. 7/13 AM 10:00 - 2nd Meeting : Present Results and Suggest problems
 3.
 4.
 5.
