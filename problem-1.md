@@ -5,6 +5,8 @@
 ## 1. Harmonic Oscillator
 
 Provided by **Tae Geun Kim**
+
+
 $$
 E_n = \hbar\omega(n+\frac{1}{2})
 $$
@@ -17,8 +19,6 @@ $$
 
 * Using above value, make "converter" which represents $$E_n$$ with $$eV$$
 
-
-
 ## 2. Differentiate
 
 Provided by **Tae Geun Kim**
@@ -29,23 +29,33 @@ Provided by **Tae Geun Kim**
 
 * How to reduce the error?
 
-
-
 ## 3. Effective Sum List
 
 Provided by **Tae Geun Kim**
 
 * Given list, output Sum \(integer\)
+
   * List = 1 ~ 1e+06 \(1 milion\)
   * Calculate sum by for loop
   * Calculate sum with some modules \(e.g numpy\)
 
 * Obtain elapsed time
+
   * time for for loop 10 times
   * time for module 10 times
   * Compare them and print results as pretty
 
 
+
+## 4. Basic Circle Plot with Tangent Line
+
+Provided by **Tae Geun Kim**
+
+* circle : $$x^2 + y^2 = 1$$
+* tangent line : $$x_1 x + y_1 y = 1$$
+
+* Using above eqs, given point $$(x_1, y_1)$$, draw the plot circle & tangent line.
+  * Should Contain : Title, Axis Label, Legends
 
 
 
