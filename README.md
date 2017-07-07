@@ -17,7 +17,7 @@
 * Github can read markdown. Markdown is simple and great tool to explain code
 * For example :
     * Python  
-```python
+    ```python
     import numpy as np
     import pylab as plt
     import seaborn as sns
@@ -33,10 +33,10 @@
 
         def __call__(self, x):
             return Differentiate(x)
-```  
+    ```  
 
     * Go 
-```go
+    ```go
     package main
 
     import (
@@ -50,7 +50,7 @@
        }
        return Sqrt(-x) + "i"
     }
-```
+    ```
 
 
 
