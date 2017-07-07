@@ -16,12 +16,8 @@
 
 * Github can read markdown. Markdown is simple and great tool to explain code
 * For example :
-<<<<<<< HEAD
     * Python
     
-=======
-    * Python  
->>>>>>> e6849f9a39789afb6cf0f08c777c5a4baa6ac999
     ```python
     import numpy as np
     import pylab as plt
@@ -38,16 +34,10 @@
 
         def __call__(self, x):
             return Differentiate(x)
-<<<<<<< HEAD
     ```
 
     * Go
     
-=======
-    ```  
-
-    * Go 
->>>>>>> e6849f9a39789afb6cf0f08c777c5a4baa6ac999
     ```go
     package main
 
@@ -57,17 +47,10 @@
     )
 
     func Sqrt(x float64) string {
-<<<<<<< HEAD
         if x >= 0 {
             return fmt.SPrint(math.Sqrt(x))
         }
         return Sqrt(-x) + "i"
-=======
-       if x >= 0 {
-           return fmt.SPrint(math.Sqrt(x))
-       }
-       return Sqrt(-x) + "i"
->>>>>>> e6849f9a39789afb6cf0f08c777c5a4baa6ac999
     }
     ```
 
@@ -92,21 +75,12 @@
     7. git push Any_Name(From ii.) master
 5. Now you can use git & github. Here is the brief manual:
     * If you fix file only :
-<<<<<<< HEAD
         * git commit -am "Log_Message"
         * git push Any_Name master
     * If you add some file to directory :
         * git add File_Name
         * git commit -am "Log_Message"
         * git push Any_Name master
-=======
-       * git commit -am "Log_Message"
-       * git push Any_Name master
-    * If you add some file to directory :
-       * git add File_Name
-       * git commit -am "Log_Message"
-       * git push Any_Name master 
->>>>>>> e6849f9a39789afb6cf0f08c777c5a4baa6ac999
 
 ## 4. (Optional) Python - Jupyter
 
@@ -114,13 +88,8 @@
 2. Download Python3.6 ver Conda.
 3. Export path? Y
 4. When download finished, type "jupyter notebook"
-<<<<<<< HEAD
     * Windows : Search Anaconda prompt in your computer and type on that
     * Linux : Just type on bash shell
-=======
-     * Windows : Search Anaconda prompt in your computer and type on that
-     * Linux : Just type on bash shell
->>>>>>> e6849f9a39789afb6cf0f08c777c5a4baa6ac999
 
 ## 5. (Optional) Go, Python - VSCode
 
