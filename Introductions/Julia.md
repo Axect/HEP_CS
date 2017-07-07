@@ -44,3 +44,15 @@
 >    println("$animal is a mammal")
 >end
 >```
+>``` Julia
+># function to calculate the volume of a sphere
+> function sphere_vol(r)
+>    # julia allows Unicode names (in UTF-8 encoding)
+>    # so either "pi" or the symbol π can be used
+>    return 4/3*pi*r^3
+>end
+>```
+
+3. Best language for Data Science
+> <a href="https://www.slant.co/topics/4001/~programming-languages-for-data-science" target="_blank">- What are the best languages for Data Science</a>  
+
