@@ -37,6 +37,8 @@
     > | pi_sum | 1.00 | 1.00 | 21.99 | 9.56 | 1.00 |  1.69 | 1.00 |  1.00 |
     > | rand_mat_stat | 1.45 | 1.66 | 17.93 | 14.56 | 14.52 |5.95 | 2.96 |  3.92 |
     > | rand_mat_mul | 3.48 | 1.02 | 1.14 | 1.57 | 1.12 | 1.30 | 1.42 |  2.36 |
+    >
+    > -Reference: Julia Home Page
 
 
 3. Physics Libraries (Particle Physics)
