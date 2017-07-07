@@ -8,7 +8,7 @@
 | -----------------|-------------------|----------------------|
 |Mathematica| Easy to Use, Powerful Symbolic| Slow, Can't Customize, Expensive|
 |Matlab           | Easy to Use, Good Vector Operation|Slow, Bad to customize|
-| R | Easy to Use, Many Tools | Slow, Strange|
+| R | Easy to Use, Many Tools | Very Slow, Strange|
 | Python | Easy to Use, Many Tools, Easy to Custmize | Slow|
 |  Julia | High performance, Good to Data Science | Young, Few Documents|
 | Go | High Speed, High Concurrency | Few libraries for Data Science|
