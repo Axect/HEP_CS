@@ -24,7 +24,7 @@
     > Mathematica > Matlab > R > Python > Julia >> Go > Java > Rust > C > C++ >> Fortran
 
 2. Speed
-    > Fortran > C++ > C > Rust > Go > Julia > Java >>> Python > Matlab > R > Mathematica
+    > C ~ Fortran > C++ ~ Rust > Go ~ Julia > Java >>> Python > Matlab > Mathematica > R
     >
     > -Reference : <a href="http://benchmarksgame.alioth.debian.org/u64q/performance.php?test=nbody&sort=elapsed" target="_blank">Speed Benchmark Game</a>
     > | Test | 포트란 | 줄리아 | 파이썬 | R | 매트랩 |  매스매티카 | Go | 자바 |
