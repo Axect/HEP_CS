@@ -62,7 +62,7 @@
  : Easy to learn & Beautiful Code
 
 2. Dynamic  
- : Need not declare variables. Just use it
+ : Need not to declare variables. Just use it
 
 
 ## 4. Disadvantages
