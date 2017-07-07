@@ -56,3 +56,32 @@
 3. Best language for Data Science
 > <a href="https://www.slant.co/topics/4001/~programming-languages-for-data-science" target="_blank">- What are the best languages for Data Science</a>  
 
+## 3. Advantages
+
+1. Pythonic  
+ : Easy to learn & Beautiful Code
+
+2. Dynamic  
+ : Need not declare variables. Just use it
+
+
+## 4. Disadvantages
+
+1. Few Documents & Books  
+ : There is only 1 book written by korean
+
+2. No physics library  
+ : You should make numerical calculations
+
+3. Interpret (No compile)  
+ : You can see errors at run time.
+
+## 5. How to learn Julia?
+
+> <a href="https://juliabyexample.helpmanual.io" target="_blank">- Julia Examples </a>  
+> <a href="https://julialang.org/learning/" target="_blank">- Julia Books </a>
+
+## 6. Conclusion
+
+Julia is fast and simple language for Data Science.
+It becomes main language in Data Science soon. So, let's challenge!
