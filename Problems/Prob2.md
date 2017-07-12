@@ -28,6 +28,8 @@
 > Planck | 52
 
 * Sort this result by score (top to bottom)
+* Calculate mean & std
 * And rank this result. (12X2 -> 12X3(add rank))  
 (Caution : Joint Rank)
 * Save results as csv file.
+* Plot with exported csv file. (Read csv -> Plot)
