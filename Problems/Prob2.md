@@ -7,7 +7,7 @@
 * Calculate statistical probability of quincunx.  
 (Hint: You should use random library)
 
-## 2. Sorting Lists with Legend phsicists
+## 2. Sorting Lists with Legend physicists
 <p style="text-align:right">Provided by <b>Tae Geun Kim</b></p>
 
 * Here is the physics test score.
