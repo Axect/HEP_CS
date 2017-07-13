@@ -35,11 +35,14 @@
 * Plot with exported csv file. (Read csv -> Plot)
 
 ## 3. Rock, Scissors, Paper!
+<p style="text-align:right">Provided by <b>Tae Geun Kim</b>
 
 * Make A.I. (Just Random Machine) for Rock Scissors Paper.
 * You can battle your A.I.
 
 ## 4. Day Generator
+
+<p style="text-align:right">Provided by <b>Sung Muk Lee</b>
 
 * Make virtual calendar (You don't need to show that) which can answer to "What day is it after 100 days?"
 * Input: days(integer) -> output: day(string)
