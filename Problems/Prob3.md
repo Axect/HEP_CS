@@ -21,6 +21,9 @@ func main() {
     A, B, C := Trinary{0}, Trinary{1}, Trinary{2}
     Print(A.Add(B)) // Output: 1 [Trinary]
     Print(C.Square()) // Output: 2 [Trinary]
+    // If Possible, you can make as follows:
+    Print(A + B) // Output: 1 [Trinary]
+    Print(C^2) // Output: 2 [Trinary]
 }
 ```
 <br>
@@ -40,7 +43,7 @@ func main() {
 ### 2) Define Methods for Class (or Type)
 * String (or ```__str__```) : Print(particle) -> Name: electron, Mass: blabla..
 * Name : You can assign name for empty "Particle" class.
-ex) ```var A Particle; A.Name="electron"``` or ```A = Particle(); A.Name="electron"```
+ex) ```var A Particle; A.Name("electron")``` or ```A = Particle(); A.Name("electron")```
 * Charge : Same as Name
 * Mass : Same as.
 * Spin : Watch out! Boson allows only integer spin and Fermion allows only half integer spin.
@@ -48,5 +51,20 @@ ex) ```var A Particle; A.Name="electron"``` or ```A = Particle(); A.Name="electr
 ### 3) Play with Instance
 * Declare electron as instance of Fermion class and print this.
 (Print(A) -> Name: "electron", Charge: -1, Mass: 0.51MeV, Spin: 1/2)
+
+### 4) Example Code (Main)
+```Go
+func main() {
+    var A Fermion
+    A.Name('electron'); A.Mass(0.51 * 1e+06); A.Charge(-1); A.Spin(1/2)
+    Print(A) 
+    //Output: 
+    //  Name: "electron"
+    //  Type: Fermion
+    //  Mass: 0.51MeV
+    //  Charge: -1
+    //  Spin: 1/2
+}
+```
 <br>
 
