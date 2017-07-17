@@ -10,10 +10,10 @@
     * There are only 3 distinguishable elements {a, b, c} (like {0,1,2})
 
 ### 2) Define Methods
-* Add : a+b=c, b+c=a, c+c=b and etc.
+* Add(```__add__```) : a+b=c, b+c=a, c+c=b and etc.
 * Multiply : ab=a, bc=c, c^2=b and etc.
 * Square : Same as Multiply.
-* String : ```A=Trinary{2(or b)}; Print(A) -> 2 (or b) [Trinary]```
+* String(```__str__```) : ```A=Trinary{2(or b)}; Print(A) -> 2 (or b) [Trinary]```
 
 ### 3) Example Code (Main)
 ``` Go
