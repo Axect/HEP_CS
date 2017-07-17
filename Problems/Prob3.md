@@ -2,8 +2,31 @@
 <h3 style="text-align:center">Focused on OOPs</h3>
 <br>
 
-## 1. Basic Particle Physics
-<p style="text-align:right">Provided by <b>Tae Geun Kim</b>
+## 1.  Make Trinary Group
+<p style="text-align:right">Provided by <b>Tae Geun Kim</b></p>
+
+### 1) Prepare Class
+* Make Trinary Class (or Type) 
+    * There are only 3 distinguishable elements {a, b, c} (like {0,1,2})
+
+### 2) Define Methods
+* Add : a+b=c, b+c=a, c+c=b and etc.
+* Multiply : ab=a, bc=c, c^2=b and etc.
+* Square : Same as Multiply.
+* String : ```A=Trinary{2(or b)}; Print(A) -> 2 (or b) [Trinary]```
+
+### 3) Example Code (Main)
+``` Go
+func main() {
+    A, B, C := Trinary{0}, Trinary{1}, Trinary{2}
+    Print(A.Add(B)) // Output: 1 [Trinary]
+    Print(C.Square()) // Output: 2 [Trinary]
+}
+```
+<br>
+
+## 2. Basic Particle Physics
+<p style="text-align:right">Provided by <b>Tae Geun Kim</b></p>
 
 <img src="Fig/SM.PNG"></img>
 
@@ -27,4 +50,3 @@ ex) ```var A Particle; A.Name="electron"``` or ```A = Particle(); A.Name="electr
 (Print(A) -> Name: "electron", Charge: -1, Mass: 0.51MeV, Spin: 1/2)
 <br>
 
-## 2.  
