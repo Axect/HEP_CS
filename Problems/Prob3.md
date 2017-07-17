@@ -19,16 +19,39 @@
 ``` Go
 func main() {
     A, B, C := Trinary{0}, Trinary{1}, Trinary{2}
-    Print(A.Add(B)) // Output: 1 [Trinary]
-    Print(C.Square()) // Output: 2 [Trinary]
-    // If Possible, you can make as follows:
     Print(A + B) // Output: 1 [Trinary]
     Print(C^2) // Output: 2 [Trinary]
 }
 ```
 <br>
 
-## 2. Basic Particle Physics
+## 2. Polynomial
+<p style="text-align:right">Provided by <b>Tae Geun Kim</b></p>
+
+### 1) Prepare Class
+* Make Polynomial Class
+
+### 2) Define Methods
+* Add, Subtract, Multiply, String
+* Differentiate : $x^n \Rightarrow nx^{n-1}$
+* Integrate : $x^n \Rightarrow \frac{1}{n+1}x^{n+1}$
+
+### 3) Example Code (Main)
+```Go
+func main() {
+    P := Polynomial{1, 2, 1}
+    Print(P) // Output: x^2 + 2x + 1
+    Print(P.Differentiate()) // Output: 2x + 2
+    Print(P.Integrate()) // Output: 1/3x^3 + x^2 + x + C (C is optional) 
+    Q := Polynomial{1, 0, 1, 0} // x^3 + x
+    Print(P+Q) // Output: x^3 + x^2 + 2x + 1
+}
+```
+
+
+
+
+## 3. Basic Particle Physics
 <p style="text-align:right">Provided by <b>Tae Geun Kim</b></p>
 
 <img src="Fig/SM.PNG"></img>
