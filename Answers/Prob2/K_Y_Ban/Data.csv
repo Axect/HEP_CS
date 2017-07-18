@@ -1,0 +1,15 @@
+,Name,Score,rank
+-,Neumann,100,1.0
+-,Feynman,98,2.0
+-,Newton,93,3.0
+-,Leibniz,93,3.0
+-,Dirac,92,5.0
+-,Fermi,91,6.0
+-,Einstein,90,7.0
+-,Bohr,90,7.0
+-,Pauli,88,9.0
+-,Heisenberg,72,10.0
+-,Schrodinger,64,11.0
+-,Planck,52,12.0
+mean, ,85.25, 
+std, ,14.04, 
