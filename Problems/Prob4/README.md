@@ -11,13 +11,16 @@ If you throw a ball in a square then the probability of ball in circle is pi*r^2
 2. What is more effective? And why did you think so?
 <br>
 
-## 2. More than order 5
+## 2. Numerical Root Finding
 <p style="text-align:right">Provided by <b>Tae Geun Kim</b>
 
-We can't obtain analytic solution of polynomial equation which has order more than (or equal) 5. But we can obtain numerically. There are so many methods to find root, so choose one of them. (Or your own method is also possible.)
+For many cases, we can't find root of some equations analytically. Thus, we should find root numerically.
 
-0. Make find root function
-1. Generate 6 random integers in range -5<= x <= 5(ex: -1, 3, 2, -4, 5, 0)
-2.  Make polynomial with step 1 (ex: - x^5 + 3x^4 + 2x^3 - 4x^2 + 5x)
-3. Find all roots of polynomial and complare it with plot of polynomial
-4. At least, test your function more than 5 times.
+1. Make find root function
+2. Test that fuction for some eqs & Obtain number of runnings to err < 1e-10
+    * x^2 - 4 = 0
+    * x^3 - 6x^2 + 11x -6 = 0
+3. Find root for some eqs :
+    * x - cosx = 0
+    * x^3 - cosx = 0
+4. Do anything else
